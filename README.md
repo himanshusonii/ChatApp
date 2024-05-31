@@ -5,6 +5,7 @@ ThouChat is chat application build with the power of MERN Stack.
 ![login page](https://github.com/himanshusonii/ChatApp/blob/master/public/images/Screenshot%202024-05-27%20083812.png?raw=true)
 
 ![home page](https://github.com/himanshusonii/ChatApp/blob/master/public/images/Screenshot%202024-05-27%20083035.png?raw=true)
+![Avatar Selection Page](https://github.com/himanshusonii/ChatApp/blob/master/public/images/Screenshot%202024-05-27%20083933.png?raw=true)
 
 ## Installation Guide
 
